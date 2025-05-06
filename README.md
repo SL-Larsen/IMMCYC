@@ -8,11 +8,8 @@ Contacts are informed by the fourth phase of the Berkeley Interpersonal Contact 
 Age Group | 0-17 contact proportion | 18-64 contact proportion | 65+ contact proportion | High risk 18-64 contact proportion
 --- | --- | --- | --- |--- 
 0-17 | 0.5 | 0.27 | 0.1 | 0.13 
---- | --- | --- | --- |--- 
 18-64 | 0.35 | 0.42 | 0.1 | 0.13
---- | --- | --- | --- |--- 
 65+ | 0.2 | 0.17 | 0.5 | 0.13
---- | --- | --- | --- |--- 
 High risk 18-64 | 0.35 | 0.42 | 0.1 | 0.13 
 
 
