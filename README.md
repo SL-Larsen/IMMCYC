@@ -14,13 +14,13 @@ Age Group | 0-17 contact proportion | 18-64 contact proportion | 65+ contact pro
 65+ | 0.2 | 0.17 | 0.5 | 0.13
 High risk 18-64 | 0.35 | 0.42 | 0.1 | 0.13 
 
-# Calibration
-Seasonal parameters (below), hospitalization fatality rate, and relative risk of hospitalization for 65+ and children are calibrated. 
-
 # Seasonal Forcing
 A cyclic cubic spline basis was used to capture changes in overall contacts and the risk of infection given contact during the calibration and projection periods. Six seasonal parameters were calibrated for each state; the basis for Illinois is given below as an example.
 
 ![Seasonality](https://github.com/user-attachments/assets/9fd602c3-bb5b-48c9-89f4-eadcbf0bfa1d)
+
+# Calibration
+Seasonal parameters (above), hospitalization fatality rate, and relative risks of hospitalization for 65+/children are calibrated using maximum likelihood. 
 
 [1] Ward, T., Fyles, M., Glaser, A., Paton, R. S., Ferguson, W., & Overton, C. E. (2024). The real-time infection hospitalisation and fatality risk across the COVID-19 pandemic in England. Nature Communications, 15(1), 4633.
 
