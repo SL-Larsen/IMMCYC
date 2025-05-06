@@ -1,4 +1,4 @@
-# Model structure
+# IMMCYCcov model structure
 This is an SEIS model stratified by age and risk: children (0-17), adults (18-64), seniors (65+), and high-risk adults (18-64). Waned/naive individuals start in S1, those with partially waned vaccinal immunity or a recent infection start in S2, and those who have been recently boosted or had 2+ recent infections start in S3. Immune escape moves individuals in S3 and S2 to S3e and S2e respectively at a rate of 1/365 days, with a median 35% reduction in protection against infection, but no reduction in protection against severe disease. 
 
 <img width="993" alt="CompartmentalDiagram" src="https://github.com/user-attachments/assets/740e9320-2417-4611-b0a2-ed8e2dd57d34" />
