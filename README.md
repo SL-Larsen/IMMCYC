@@ -22,6 +22,7 @@ A cyclic cubic spline basis was used to capture changes in overall contacts and 
 # Calibration
 Seasonal parameters (above), hospitalization fatality rate, and relative risks of hospitalization for 65+/children are calibrated using maximum likelihood. 
 
+# References
 [1] Ward, T., Fyles, M., Glaser, A., Paton, R. S., Ferguson, W., & Overton, C. E. (2024). The real-time infection hospitalisation and fatality risk across the COVID-19 pandemic in England. Nature Communications, 15(1), 4633.
 
 [2] Ko, J. Y., Danielson, M. L., Town, M., Derado, G., Greenlund, K. J., Kirley, P. D., ... & Kim, L. (2021). Risk factors for coronavirus disease 2019 (COVID-19)–associated hospitalization: COVID-19–associated hospitalization surveillance network and behavioral risk factor surveillance system. Clinical Infectious Diseases, 72(11), e695-e703.
