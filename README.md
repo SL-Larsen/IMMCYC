@@ -23,6 +23,8 @@ A cyclic cubic spline basis was used to capture changes in overall contacts and 
 ![Seasonality](https://github.com/user-attachments/assets/9fd602c3-bb5b-48c9-89f4-eadcbf0bfa1d)
 
 [1] Ward, T., Fyles, M., Glaser, A., Paton, R. S., Ferguson, W., & Overton, C. E. (2024). The real-time infection hospitalisation and fatality risk across the COVID-19 pandemic in England. Nature Communications, 15(1), 4633.
+
 [2] Ko, J. Y., Danielson, M. L., Town, M., Derado, G., Greenlund, K. J., Kirley, P. D., ... & Kim, L. (2021). Risk factors for coronavirus disease 2019 (COVID-19)–associated hospitalization: COVID-19–associated hospitalization surveillance network and behavioral risk factor surveillance system. Clinical Infectious Diseases, 72(11), e695-e703.
+
 [3] Feehan, D. M., & Mahmud, A. S. (2021). Quantifying population contact patterns in the United States during the COVID-19 pandemic. Nature communications, 12(1), 893.
 
