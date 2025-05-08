@@ -15,7 +15,7 @@ Age Group | 0-17 contact proportion | 18-64 contact proportion | 65+ contact pro
 High risk 18-64 | 0.35 | 0.42 | 0.1 | 0.13 
 
 # Seasonal Forcing
-A cyclic cubic spline basis was used to capture changes in overall contacts and the risk of infection given contact during the calibration and projection periods. Six seasonal parameters were calibrated for each state.
+Cyclic cubic spline bases was used to capture changes in overall contacts and the risk of infection given contact during the calibration and projection periods. Six seasonal parameters were calibrated for each state, updating every 2 months.
 
 <img width="769" alt="Screenshot 2025-05-08 at 2 54 13 PM" src="https://github.com/user-attachments/assets/c8ffe6df-a528-4366-b3fd-4cef7f3faaac" />
 
